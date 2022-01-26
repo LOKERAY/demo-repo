@@ -1,1 +1,2 @@
 this is the newfile for the new branch
+this is the second line of the file for checking the rebase command
